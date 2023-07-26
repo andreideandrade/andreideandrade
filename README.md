@@ -10,7 +10,6 @@
 
  GitHub: @andreideandrade
 
- Twitter: @EngenhariadeSo2
 
 
 <!---
