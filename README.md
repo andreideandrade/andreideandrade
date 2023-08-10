@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @andreideandrade
-- 👀 I’m interested in Kotlin, Java, VBA, Javascript, C++, MariaDB
-- 👀 I’m studying Kotlin for desktop and mobile
+- 👀 I’m interested in Kotlin, Java, VBA, Javascript, C++, MariaDB, Python, Machine learning.
+-
+ 👀 I’m studying Kotlin for desktop and mobile
 - 👀 I wish in the near future to be a Full stack
 - 🌱 I’m currently learning Software Engine
 <!---
